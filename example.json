@@ -1,0 +1,17 @@
+{
+  "movies": [
+    {
+      "name": "Inception",
+      "imdb_id": "tt1375666",
+      "rating": "good",
+      "type": "movie"
+    },
+    {
+      "name": "Breaking Bad",
+      "imdb_id": "tt0903747",
+      "rating": "good",
+      "type": "serie",
+      "last_season_watched": 5
+    }
+  ]
+}
